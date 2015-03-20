@@ -1,4 +1,3 @@
 Trying out ruby.
 Some new line
 line 2
-line 3
